@@ -1,5 +1,5 @@
 # CLRS
-Introduction to Algorithms.
+Introduction to Algorithms. Implemented with Java.
 
 ## Features
 - Persian Docs

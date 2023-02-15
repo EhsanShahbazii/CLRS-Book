@@ -16,7 +16,13 @@ INSERTION-SORT(A)
 
 ![1-Insertion%20Sort 2-1-1](https://ehsan.storage.iran.liara.space/git-hub/CLRS-Book/%201-Foundations/%202-Getting%20Started/1-Insertion%20Sort/2-1-1.png)
 
-### نکته اضافه
+### تحلیل پیچیدگی الگوریتم مرتب سازی درجی
+- بدترین عملکرد `O(n^2)`
+- بهترین عملکرد `O(n)`
+- میانگین عملکرد `O(n^2)`
+- بدترین پیچیدگی حافظه ای `O(n)`
+
+### پیاده سازی مرتب سازی درجی
 مرتب سازی درجی را می توانیم به صورت زیر با زبان جاوا پیاده سازی کنیم:
 ```java
 import java.util.Arrays;
@@ -43,3 +49,6 @@ public class Main {
 UnSorted: 1, 1, 2, 4, 0, 0, 5, 6, 8, 9
 Sorted: 0, 0, 1, 1, 2, 4, 5, 6, 8, 9
 ```
+
+### منابع اضافه جهت مطالعه
+- [Wikipedia Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)

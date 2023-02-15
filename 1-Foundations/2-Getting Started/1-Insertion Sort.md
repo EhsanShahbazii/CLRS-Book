@@ -23,7 +23,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] data = {1,1,2,4,0,0,5,6,8,9};
+        int[] data = {1, 1, 2, 4, 0, 0, 5, 6, 8, 9};
         int key, i;
         for (int j = 1; j < data.length; j++) {
             key = data[j];
@@ -37,4 +37,9 @@ public class Main {
         System.out.println(Arrays.toString(data));
     }
 }
+```
+که خروجی این کد به صورت زیر می باشد:
+```console
+UnSorted: 1, 1, 2, 4, 0, 0, 5, 6, 8, 9
+Sorted: 0, 0, 1, 1, 2, 4, 5, 6, 8, 9
 ```

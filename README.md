@@ -11,7 +11,7 @@ Introduction to Algorithms. Implemented with Java.
 - I Foundations
     - Introduction
     - 1 The Role of Algorithms in Computing
-    - 2 Getting Started
+    - [2 Getting Started](1-Foundations/2-Getting%20Started/1-Insertion%20Sort.md)
     - 3 Growth of Functions
     - 4 Divide-and-Conquer
     - 5 Probabilistic Analysis and Randomized Algorithms
